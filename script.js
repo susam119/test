@@ -1,4 +1,5 @@
 <!-- Black SEO 智能访客识别脚本 - SEO设置ID: 5 -->
+<!-- 版本1 -->
 <script>
 (async () => {
   const enableLogging = true;
